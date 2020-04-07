@@ -102,6 +102,10 @@ img{
 }
 /*header*/
 /*banner-text*/
+.banner_text {
+    width: 70%;
+    margin: 0 auto;
+}
 .banner_conteiner {
     color: #ffffff;
     text-align: center;
@@ -119,6 +123,7 @@ img{
     line-height: 158px;
     text-transform: uppercase;
     margin-bottom: 50px;
+
 }
 .find_button {
     width: 160px;
